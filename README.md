@@ -21,7 +21,7 @@ Put the above process into a more intuitive way:
 
 # How to run this
 
-`rwkv-11.pth` is the weighs file.
+`rwkv-11.pth` is the weighs file.((N_LAYER=12,N_EMBD=384))
 
 `rwkv_vocab_nonogram.txt` is the vocab file.
 

@@ -7,6 +7,8 @@ A 20M RWKV v6 can do nonogram
 
 You can play nonogram at [here](https://www.puzzle-nonograms.com/).
 
+**Try RWKV-nonogram at [Colab](https://colab.research.google.com/drive/1HZnIlu4U56vk1ECLLVoQkdrwRdMEn_gZ?usp=sharing)** 
+
 # V1
 
 Our 20M RWKV v6 can do 5x5 nonograms (for v1 version) like:

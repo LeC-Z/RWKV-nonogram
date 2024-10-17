@@ -32,3 +32,10 @@ Put the above process into a more intuitive way:
 ```
 pip install rwkv
 ```
+
+run the code in `rwkv-nonogram.ipynb`
+
+# The train data
+
+`generate_train_data.py` is the code to generate the train data.
+

@@ -39,3 +39,4 @@ run the code in `rwkv-nonogram.ipynb`
 
 `generate_train_data.py` is the code to generate the train data.
 
+And I use `https://github.com/BlinkDL/RWKV-LM/blob/main/RWKV-v5/demo-training-run.sh` to train.
